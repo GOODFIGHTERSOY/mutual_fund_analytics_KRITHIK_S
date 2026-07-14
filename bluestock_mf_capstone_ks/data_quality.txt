@@ -1,0 +1,12 @@
+AMFI Code Validation Summary
+
+Validation was performed by comparing scheme codes in fund_master.csv against scheme codes in nav_history.csv.
+
+Results:
+
+Total missing scheme codes: 0
+All scheme codes from fund_master are present in nav_history.
+
+
+Conclusion:
+The AMFI scheme code mapping is complete, and the datasets are suitable for further analysis and joins.
