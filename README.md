@@ -95,7 +95,7 @@ bluestock_mf_capstone/
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/GOODFIGHTERSOY/mutual_fund_analytics_KRITHIK_S.git
 ```
 
 ## Navigate to Project
