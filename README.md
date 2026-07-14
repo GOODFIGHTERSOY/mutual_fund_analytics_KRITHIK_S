@@ -1,4 +1,4 @@
-# 📊 Mutual Fund Analytics Platform
+# 📊 Mutual Fund Analytics 
 
 A comprehensive Mutual Fund Analytics Platform built using **Python, SQLite, and Microsoft Power BI** to analyze mutual fund performance, investor behavior, and market trends. The project follows a complete data analytics workflow including ETL, financial metric computation, advanced analytics, and interactive dashboard visualization.
 
