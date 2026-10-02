@@ -98,11 +98,6 @@ bluestock_mf_capstone/
 git clone https://github.com/GOODFIGHTERSOY/mutual_fund_analytics_KRITHIK_S.git
 ```
 
-## Navigate to Project
-
-```bash
-cd bluestock_mf_capstone_ks
-```
 
 ## Install Dependencies
 
